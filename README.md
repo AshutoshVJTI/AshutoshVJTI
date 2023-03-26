@@ -40,6 +40,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
+  <a href="https://ashutosh-mathore.netlify.app/"><img src="https://img.shields.io/badge/-ashutosh--mathore.netlify.app-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/ashutosh-mathore/"><img src="https://img.shields.io/badge/-Ashutosh%20Mathore-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:mathoreashutosh@gmail.com"><img src="https://img.shields.io/badge/-mathoreashutosh@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/a.shoe.toast"><img src="https://img.shields.io/badge/-@a.shoe.toast-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
