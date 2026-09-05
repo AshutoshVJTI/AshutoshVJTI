@@ -2,18 +2,24 @@
 
 Full-stack software engineer based in Long Beach, California. I build React and TypeScript interfaces, APIs, and data applications, with experience in Node.js, Python, Go, and PostgreSQL.
 
-My work includes client applications at Netnimbus, research infrastructure at USC Information Sciences Institute, and the open-source tools at [Kardashev Labs](https://kardashevlabs.org). I'm interested in full-time US-remote frontend and full-stack engineering roles.
+My work includes client applications at Netnimbus, research infrastructure at USC Information Sciences Institute, and the open-source tools at [Kardashev Labs](https://kardashevlabs.org).
 
-[Portfolio](https://ashu.to) · [Résumé](https://ashu.to/Ashutosh_Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/ashutosh-mathore/) · [Email](mailto:mathoreashutosh23@gmail.com)
+[Portfolio](https://ashu.to)
+
+[Résumé](https://ashu.to/Ashutosh_Resume.pdf)
+
+[LinkedIn](https://www.linkedin.com/in/ashutosh-mathore/)
+
+[Email](mailto:mathoreashutosh23@gmail.com)
 
 ## Selected work
 
 | Project | What I built | Explore |
 |---|---|---|
-| Interconnection queue tracker | Next.js/TypeScript interface for searching US power projects, with Python integrations for seven electricity markets and PostgreSQL storage | [Demo](https://interconnection-queue.kardashevlabs.org) · [Source](https://github.com/kardashev-lab/interconnection-queue-tracker) |
-| Electricity price dashboard | TypeScript interface comparing electricity prices, day-ahead spreads, and market context, connected to the grid-data API | [Demo](https://lmp.kardashevlabs.org) · [Source](https://github.com/kardashev-lab/lmp-dashboard) |
-| kardashev-data | Python ingestion workers, PostgreSQL storage, and a FastAPI service powering the public dashboards | [API docs](https://data.kardashevlabs.org/docs) · [Source](https://github.com/kardashev-lab/kardashev-data) · [Tests](https://github.com/kardashev-lab/kardashev-data/tree/main/tests) |
-| kardashev-js | A published JavaScript/TypeScript client for US electricity-market data | [Source](https://github.com/kardashev-lab/kardashev-js) · [npm](https://www.npmjs.com/package/kardashev) |
+| Interconnection queue tracker | Next.js/TypeScript interface for searching US power projects, with Python integrations for seven electricity markets and PostgreSQL storage | [Demo](https://interconnection-queue.kardashevlabs.org), [Source](https://github.com/kardashev-lab/interconnection-queue-tracker) |
+| Electricity price dashboard | TypeScript interface comparing electricity prices, day-ahead spreads, and market context, connected to the grid-data API | [Demo](https://lmp.kardashevlabs.org), [Source](https://github.com/kardashev-lab/lmp-dashboard) |
+| kardashev-data | Python ingestion workers, PostgreSQL storage, and a FastAPI service powering the public dashboards | [API docs](https://data.kardashevlabs.org/docs), [Source](https://github.com/kardashev-lab/kardashev-data), [Tests](https://github.com/kardashev-lab/kardashev-data/tree/main/tests) |
+| kardashev-js | A published JavaScript/TypeScript client for US electricity-market data | [Source](https://github.com/kardashev-lab/kardashev-js), [npm](https://www.npmjs.com/package/kardashev) |
 
 ## Experience
 
