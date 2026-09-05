@@ -1,11 +1,25 @@
-# Code. Learn. Refine. Repeat.
+# Ashutosh Mathore
 
-### 🤝🏻 &nbsp;Connect with Me
+Full-stack software engineer based in Long Beach, California. I build React and TypeScript interfaces, APIs, and data applications, with experience in Node.js, Python, Go, and PostgreSQL.
 
+My work includes client applications at Netnimbus, research infrastructure at USC Information Sciences Institute, and the open-source tools at [Kardashev Labs](https://kardashevlabs.org). I'm interested in full-time US-remote frontend and full-stack engineering roles.
 
-  <a href="https://ashu.to/"><img src="https://img.shields.io/badge/-ashu.to-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/ashutosh-mathore/"><img src="https://custom-icon-badges.demolab.com/badge/Ashutosh%20Mathore-0A66C2?logo=linkedin-white&logoColor=fff"/></a>
-<a href="mailto:mathoreashutosh23@gmail.com"><img src="https://img.shields.io/badge/-mathoreashutosh23@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/ashuftw"><img src="https://img.shields.io/badge/-@ashuftw-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://twitter.com/ashutoshftw"><img src="https://img.shields.io/badge/-@ashutoshftw-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
+[Portfolio](https://ashu.to) · [Résumé](https://ashu.to/Ashutosh_Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/ashutosh-mathore/) · [Email](mailto:mathoreashutosh23@gmail.com)
 
+## Selected work
+
+| Project | What I built | Explore |
+|---|---|---|
+| Interconnection queue tracker | Next.js/TypeScript interface for searching power projects across seven US electricity markets, with Python ingestion into PostgreSQL | [Demo](https://interconnection-queue.kardashevlabs.org) · [Source](https://github.com/kardashev-lab/interconnection-queue-tracker) |
+| Electricity price map | Interactive geographic view of electricity prices, connected to the grid-data API with market selection and node history | [Demo](https://lmp-map.kardashevlabs.org) · [Source](https://github.com/kardashev-lab/lmp-map) |
+| kardashev-data | Python ingestion workers, PostgreSQL storage, and a FastAPI service powering the public dashboards | [API docs](https://data.kardashevlabs.org/docs) · [Source](https://github.com/kardashev-lab/kardashev-data) · [Tests](https://github.com/kardashev-lab/kardashev-data/tree/main/tests) |
+| kardashev-js | A published JavaScript/TypeScript client for US electricity-market data | [Source](https://github.com/kardashev-lab/kardashev-js) · [npm](https://www.npmjs.com/package/kardashev) |
+
+## Experience
+
+- **Kardashev Labs:** build and maintain open-source web tools, data services, and API clients.
+- **USC ISI / SPHERE:** contributed to the researcher-facing portal and built Go tooling for local research-container deployment with WireGuard networking.
+- **Netnimbus:** led a three-person agency delivering client web applications, including a research-report marketplace and an interactive campaign for American Tourister.
+- **Azympto and Mithya Labs:** shipped React, React Native, and Next.js product features across video, learning, and social applications.
+
+MS in Computer Science, California State University, Sacramento (2026).
