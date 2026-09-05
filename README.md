@@ -22,4 +22,4 @@ My work includes client applications at Netnimbus, research infrastructure at US
 - **Netnimbus:** led a three-person agency delivering client web applications, including a research-report marketplace and an interactive campaign for American Tourister.
 - **Azympto and Mithya Labs:** shipped React, React Native, and Next.js product features across video, learning, and social applications.
 
-MS in Computer Science, California State University, Sacramento (2026).
+Computer Science studies at California State University, Sacramento, August 2024 to May 2026. MS graduation expected December 2026.
